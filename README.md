@@ -1,4 +1,4 @@
-# LLM-ReadingAid-VisuallyImpaired
+# LLM-Reading Aid-Visually Impaired
 This is code implementation for the paper: LLM-Powered Reading Aid for Visually Impaired Online Learners
 
 # 🔗 Paper &  Live Demo
