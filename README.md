@@ -3,7 +3,7 @@ This is code implementation for the paper: LLM-Powered Reading Aid for Visually 
 
 # 🔗 Paper &  Live Demo
 
-- 📄 **Paper (Springer / DOI)**: [LLM-Powered Reading Aid for Visually Impaired Online Learners](https://link.springer.com/chapter/10.1007/978-981-97-9255-9_19)
+- 📄 **Paper (Springer)**: [LLM-Powered Reading Aid for Visually Impaired Online Learners](https://link.springer.com/chapter/10.1007/978-981-97-9255-9_19)
 - 🌐 **Live Demo**: http://101.201.40.89:8011/
 
 # 📖 Introduction
