@@ -4,12 +4,11 @@ This is code implementation for the paper: LLM-Powered Reading Aid for Visually 
 # 🔗 Paper &  Demo Video
 
 - 📄 **Paper (Springer)**: [LLM-Powered Reading Aid for Visually Impaired Online Learners](https://link.springer.com/chapter/10.1007/978-981-97-9255-9_19)
-- 🎥 **Demo Video**: 
+- 🎥 **Demo Video**:
 
-<video width="800" controls>
-  <source src="figs/demo_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/a2ee23da-56d1-4dad-89e9-6d98b03caad3
+
+
 
 # 📖 Introduction
 
