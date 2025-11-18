@@ -1,0 +1,12 @@
+[database]
+db_host = localhost
+db_user = your_mysql_username
+db_password = your_mysql_password
+db_name = news_recommend
+db_port = 3306
+
+[llm]
+api = your_gpt_api_key_here
+model = gpt-4
+base_url = https://api.openai.com/v1
+
